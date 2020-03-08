@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TXLife xmlns="http://ACORD.org/Standards/Life/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://ACORD.org/Standards/Life/2 ../xsd/TXLife2.9.00.xsd">
+        <UserAuthRequest>
+                <UserLoginName></UserLoginName>
+                <UserPswd>
+                        <CryptType>NONE</CryptType>
+                        <Pswd></Pswd>
+                </UserPswd>
+        </UserAuthRequest>
+        <TXLifeRequest>
+                <TransRefGUID></TransRefGUID>
+                <TransType tc=""></TransType>
+                <TransExeDate></TransExeDate>
+                <TransExeTime></TransExeTime>
+                <OLifE>
+		<SignOnInquiryData>
+			<MirDvSignOffAllInd></MirDvSignOffAllInd>
+			<MirUserId></MirUserId>
+			<MirCoId></MirCoId>
+			<MirUserSesnCtryCd></MirUserSesnCtryCd>
+			<MirUserSesnCrcyCd></MirUserSesnCrcyCd>
+			<MirUserPswdTxt></MirUserPswdTxt>
+			<MirUserPswdTxt2></MirUserPswdTxt2>
+			<MirUserPswdTxt3></MirUserPswdTxt3>
+		</SignOnInquiryData>
+        </OLifE>
+        </TXLifeRequest>
+</TXLife>
