@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TXLife xmlns="http://ACORD.org/Standards/Life/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://ACORD.org/Standards/Life/2 ../xsd/TXLife2.9.00.xsd">
+        <UserAuthRequest>
+                <UserLoginName>IX14</UserLoginName>
+                <UserPswd>
+                        <CryptType>NONE</CryptType>
+                        <Pswd>aug2017</Pswd>
+                </UserPswd>
+        </UserAuthRequest>
+        <TXLifeRequest>
+                <TransRefGUID></TransRefGUID>
+                <TransType tc="ClientRiskRating">ClientRiskRating</TransType>
+                <TransExeDate>2018-05-29</TransExeDate>
+                <TransExeTime>13:40:04</TransExeTime>
+                <OLifE>
+		<ClientRiskRatingData>
+			<MirDvPrcesStateCd></MirDvPrcesStateCd>
+			<MirCommonFields>
+				<MirCliId>rbcli</MirCliId>
+				<MirPrevUpdtUserId>ix14</MirPrevUpdtUserId>
+				<MirCliRskRatEffDt>2017-11-02</MirCliRskRatEffDt>
+				<MirCliRskRatCd></MirCliRskRatCd>
+				<MirRskOvridReasnTxt>testing</MirRskOvridReasnTxt>
+				<MirRskOvridNewsSrcTxt></MirRskOvridNewsSrcTxt>
+			</MirCommonFields>
+			<MirCliNmInfo>
+				<MirCliSurNm></MirCliSurNm>
+				<MirCliGivNm></MirCliGivNm>
+				<MirCliMidNm></MirCliMidNm>
+				<MirCliCoNm></MirCliCoNm>
+				<MirDvOwnCliNm></MirDvOwnCliNm>
+			</MirCliNmInfo>
+		</ClientRiskRatingData>
+        </OLifE>
+        </TXLifeRequest>
+</TXLife>

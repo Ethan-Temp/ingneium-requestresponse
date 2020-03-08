@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TXLife xmlns="http://ACORD.org/Standards/Life/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://ACORD.org/Standards/Life/2 ../xsd/TXLife2.9.00.xsd">
+        <UserAuthRequest>
+                <UserLoginName></UserLoginName>
+                <UserPswd>
+                        <CryptType>NONE</CryptType>
+                        <Pswd></Pswd>
+                </UserPswd>
+        </UserAuthRequest>
+        <TXLifeRequest>
+                <TransRefGUID></TransRefGUID>
+                <TransType tc=""></TransType>
+                <TransExeDate></TransExeDate>
+                <TransExeTime></TransExeTime>
+                <OLifE>
+		<PhysicianPersonalInfoUpdateData>
+			<MirCommonFields>
+				<MirCliId></MirCliId>
+				<MirDvInsrdCliNm></MirDvInsrdCliNm>
+				<MirDvPrevUpdtDt></MirDvPrevUpdtDt>
+				<MirCliSexCd></MirCliSexCd>
+				<MirPregCmplicInd></MirPregCmplicInd>
+				<MirCliPregCnfmtDt></MirCliPregCnfmtDt>
+				<MirWgtGainLosCd></MirWgtGainLosCd>
+				<MirDvCliCmHt></MirDvCliCmHt>
+				<MirDvCliFtHt></MirDvCliFtHt>
+				<MirDvCliInchHt></MirDvCliInchHt>
+				<MirDisordDiagnsTxt></MirDisordDiagnsTxt>
+				<MirCliMedctnGivTxt></MirCliMedctnGivTxt>
+				<MirDoctorCityNmTxt></MirDoctorCityNmTxt>
+				<MirCliDoctorNm></MirCliDoctorNm>
+				<MirCliDoctorProvCd></MirCliDoctorProvCd>
+				<MirCliPregInd></MirCliPregInd>
+				<MirReguDoctorInd></MirReguDoctorInd>
+				<MirPrevVstRsltTxt></MirPrevVstRsltTxt>
+				<MirReasnWgtChngTxt></MirReasnWgtChngTxt>
+				<MirTrtmntRecvTxt></MirTrtmntRecvTxt>
+				<MirDoctorPrevVstDt></MirDoctorPrevVstDt>
+				<MirPrevVstReasnCd></MirPrevVstReasnCd>
+				<MirDvCliWgtChngKgQty></MirDvCliWgtChngKgQty>
+				<MirDvCliWgtChngLbQty></MirDvCliWgtChngLbQty>
+				<MirDvCliKgWgt></MirDvCliKgWgt>
+				<MirDvCliLbWgt></MirDvCliLbWgt>
+				<MirCliWgtChngInd></MirCliWgtChngInd>
+				<MirCliPregTxt></MirCliPregTxt>
+				<MirCliPregMoQty></MirCliPregMoQty>
+				<MirCliGynePblmInd></MirCliGynePblmInd>
+				<MirDvBthWgtKgQty></MirDvBthWgtKgQty>
+				<MirDvBthWgtLbQty></MirDvBthWgtLbQty>
+				<MirHgtwgtOffTblInd></MirHgtwgtOffTblInd>
+				<MirCliGynProbTxt></MirCliGynProbTxt>
+			</MirCommonFields>
+		</PhysicianPersonalInfoUpdateData>
+        </OLifE>
+        </TXLifeRequest>
+</TXLife>

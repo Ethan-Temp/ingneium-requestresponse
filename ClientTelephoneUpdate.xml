@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TXLife xmlns="http://ACORD.org/Standards/Life/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://ACORD.org/Standards/Life/2 ../xsd/TXLife2.9.00.xsd">
+        <UserAuthRequest>
+                <UserLoginName></UserLoginName>
+                <UserPswd>
+                        <CryptType>NONE</CryptType>
+                        <Pswd></Pswd>
+                </UserPswd>
+        </UserAuthRequest>
+        <TXLifeRequest>
+                <TransRefGUID></TransRefGUID>
+                <TransType tc=""></TransType>
+                <TransExeDate></TransExeDate>
+                <TransExeTime></TransExeTime>
+                <OLifE>
+		<ClientTelephoneUpdateData>
+			<MirCommonFields>
+				<MirCliId></MirCliId>
+				<MirDvCliNm></MirDvCliNm>
+				<MirCliCntctIdCd></MirCliCntctIdCd>
+				<MirCliCntctIdTxt></MirCliCntctIdTxt>
+				<MirCliCntctIdCd0>
+					<MirCliCntctIdCd1></MirCliCntctIdCd1>
+					<MirCliCntctIdCd2></MirCliCntctIdCd2>
+					<MirCliCntctIdCd3></MirCliCntctIdCd3>
+					<MirCliCntctIdCd4></MirCliCntctIdCd4>
+					<MirCliCntctIdCd5></MirCliCntctIdCd5>
+					<MirCliCntctIdCd6></MirCliCntctIdCd6>
+					<MirCliCntctIdCd7></MirCliCntctIdCd7>
+					<MirCliCntctIdCd8></MirCliCntctIdCd8>
+				</MirCliCntctIdCd0>
+		</ClientTelephoneUpdateData>
+        </OLifE>
+        </TXLifeRequest>
+</TXLife>
